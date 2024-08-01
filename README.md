@@ -1,4 +1,4 @@
 # ExtractTextApp
 
 ## ScreenShot
-![Screenshot of the application](images/image.png)
+![Screenshot of the application](Screenshot/app.mp4)
